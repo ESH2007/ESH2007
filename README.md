@@ -1,51 +1,41 @@
+## Hi there! 👋
 
-![github-header-image](https://github.com/user-attachments/assets/fcdfac71-15de-4e5e-b953-4d31e1cf7c75)
-
-I'm Emilio Sánchez Herrera, a passionate software developer from Colombia with a knack for solving complex problems and creating innovative solutions.
+I'm Emilio Sánchez Herrera, a passionate developer from Colombia. I love building innovative solutions and exploring new technologies in the software development world.
 
 ## About Me
 
-I'm currently working at [BogMunDC-Dev](https://github.com/BogMunDC-Dev), where I contribute to various projects. I’m based in Colombia and have a keen interest in programming, AI/NN, and Low level programming.
+I'm currently working as a developer at [BogMunDC-Dev](https://github.com/BogMunDC-Dev). I enjoy coding in various languages and am always eager to learn new skills. My goal is to contribute to meaningful projects and help others along the way.
 
 ## Skills & Technologies
+[![My Skills](https://skillicons.dev/icons?i=java,rust,c,cpp,html,css,php,docker,git,github,react,vue,flutter,fastapi,django)](https://skillicons.dev)
 
-c,cpp,java,rust,php,html,css,react,vue,django,nodejs,git,github,mysql,docker,linux
 
 ## Top Projects
 
-- [**HorariosColegio**](https://github.com/ESH2007/HorariosColegio)  
-  A project to manage school schedules.  
-  ⭐ 0 Stars | 🔄 0 Forks | 🐛 0 Open Issues
-
-- [**ConVecSys**](https://github.com/ESH2007/ConVecSys)  
-  A basic 2.5D game engine based on DOOM and Wolfenstein 3D.  
-  ⭐ 0 Stars | 🔄 0 Forks | 🐛 0 Open Issues
-
-- [**The-Colombian-Map-Web**](https://github.com/ESH2007/The-Colombian-Map-Web)  
-  A website showcasing characteristics and tips of different regions of Colombia.  
-  ⭐ 2 Stars | 🔄 0 Forks | 🐛 0 Open Issues
-
-- [**DarwinPy**](https://github.com/ESH2007/DarwinPy)  
-  A simulator for Darwinian evolution using Python.  
-  ⭐ 1 Star | 🔄 0 Forks | 🐛 0 Open Issues
+- [BogMunDC](https://github.com/BogMunDC-Dev/BogMunDC): BogMunDC is a website in charge of storing and sharing details about different models in Bogotá, and other data that may be useful for beginner delegates. ⭐ 1  | Language: HTML/CSS, and JS
+- [ConVecSys](https://github.com/ESH2007/ConVecSys): A basic 2.5D game engine based on DOOM and Wolfenstein 3D. ⭐ 0 | Language: C
+- [HorariosColegio](https://github.com/ESH2007/HorariosColegio): A project to manage school schedules.  ⭐ 0 | Language: HTML/CSS, and JS
+- [The-Colombian-Map-Web](https://github.com/ESH2007/The-Colombian-Map-Web): A website to find characteristics and tips about different regions of Colombia. ⭐ 2 | Language: HTML/CSS, and JS
+- [DarwinPy](https://github.com/ESH2007/DarwinPy): A simulator of Darwinian evolution with Python. ⭐ 1 | Language: Python
 
 ## GitHub Stats
 
-🔹 **Public Repositories**: 19  
-🔹 **Followers**: 5  
-🔹 **Following**: 14  
+🔭 Public Repositories: 19  
+👥 Followers: 5  
+👤 Following: 14  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ESH2007&show_icons=true&theme=radical)
 
 ## Recent Activity
 
 Here are some of my recent activities on GitHub:  
-1. Starting the factorization of the HTML using ReactJS for [BogMunDC](https://github.com/BogMunDC-Dev/BogMunDC).  
-2. Planning new features for [HorariosColegio](https://github.com/NogaSancho/HorariosColegio).  
+1. **Started** the factorization of the HTML using ReactJS for [BogMunDC](https://github.com/BogMunDC-Dev/BogMunDC).  
+2.  New features **planned** for [HorariosColegio](https://github.com/NogaSancho/HorariosColegio).  
+
 
 ## Connect with Me
 
-{"twitter":"https://twitter.com/ESH_2007"}
+[Twitter](https://twitter.com/ESH_2007)
 
 ## Certifications
 
