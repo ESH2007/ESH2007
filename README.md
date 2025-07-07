@@ -1,4 +1,5 @@
-## Hi there! 👋
+
+![github-header-image](https://github.com/user-attachments/assets/fcdfac71-15de-4e5e-b953-4d31e1cf7c75)
 
 I'm Emilio Sánchez Herrera, a passionate software developer from Colombia with a knack for solving complex problems and creating innovative solutions.
 
